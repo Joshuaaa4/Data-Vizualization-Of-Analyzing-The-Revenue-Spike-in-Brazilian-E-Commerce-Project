@@ -1,1 +1,2 @@
 # Data-Vizualization-Of-Analyzing-The-Revenue-Spike-in-Brazilian-E-Commerce-Project
+A data visualization project designed to analyze and uncover the root causes of revenue spikes and logistics inefficiencies in the Brazilian E-Commerce sector using the Olist dataset. The project demonstrates how structured visual reasoning and Tablueu dashboards can be used to ingest, explore, process, and analyze multi table relational data to identify critical operational bottlenecks, such as Black Friday surges and regional delivery delays.
